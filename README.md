@@ -13,10 +13,17 @@ python autolatex.py --md "./folder/solutions.md" --out your_output.tex --title "
 
 ## To-Do Ideas:
 Adding index (and curate the section, subsection, etc...)
+
 Adding resume
+
 Analize by examn structure (instead of pages)
+
 Checking for multiple languages
+
 PDF compiler + Unified scripts (im using overleaf for now)
+
 Embedding in a LaTeX template
+
 ...
+
 GUI, TTS integration...
