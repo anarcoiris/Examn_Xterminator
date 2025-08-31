@@ -2,10 +2,12 @@
 
 ## Requirements:
 pip install pymupdf Pillow pytesseract requests rapidfuzz
+
 setx OPENAI_API_KEY (your api key)
 
 ## How to use:
-python pdf_exam.py --pdf /route/to/your_merged_examns.pdf --out ./"folder name" --sleep (streaming delay in seconds. default is 1. Used 5 with caution and great results)
+python pdf_exam.py --pdf /route/to/your_merged_examns.pdf --out ./"folder name" --sleep (stream delay in seconds, default 1, 5 works fine)
+
 python autolatex.py --md "./folder/solutions.md" --out your_output.tex --title "Exámenes de... (whatever)"
 
 
