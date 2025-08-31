@@ -1,4 +1,4 @@
-### Examn Xterminator
+# Examn Xterminator
 
 ## Requirements:
 pip install pymupdf Pillow pytesseract requests rapidfuzz
